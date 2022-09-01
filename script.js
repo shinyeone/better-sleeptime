@@ -1,5 +1,3 @@
-
-
 function handleOnClick() {
     let output = document.querySelector(".output");
     output.style.display = "block";
